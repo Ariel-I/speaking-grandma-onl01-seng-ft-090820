@@ -1,10 +1,10 @@
 def
 
-if speak_to_grandma == "hi.downcase"
+if speak_to_grandma == "hi"
   puts "HUH?! SPEAK UP SONNY!"
 elsif speak_to_grandma == "I LOVE YOU GRANDMA!"
   puts "I LOVE YOU TOO PUMPKIN!"
-else speak_to_grandma == "upcase"
+else speak_to_grandma == "by"
   puts "NO, NOT SINCE 1938!"
 
 end
