@@ -1,4 +1,4 @@
-speak_to_grandma == "I LOVE YOU GRANDMA!"
+def
 
 if speak_to_grandma == "hi.downcase"
   puts "HUH?! SPEAK UP SONNY!"
