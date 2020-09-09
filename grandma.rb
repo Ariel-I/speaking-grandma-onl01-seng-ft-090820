@@ -1,8 +1,10 @@
-if speak_to_grandma == ".downcase"
+speak_to_grandma == "I LOVE YOU GRANDMA!"
+
+if speak_to_grandma == "hi.downcase"
   puts "HUH?! SPEAK UP SONNY!"
 elsif speak_to_grandma == "I LOVE YOU GRANDMA!"
   puts "I LOVE YOU TOO PUMPKIN!"
-else speak_to_grandma == ".upcase"
+else speak_to_grandma == "upcase"
   puts "NO, NOT SINCE 1938!"
 
 
