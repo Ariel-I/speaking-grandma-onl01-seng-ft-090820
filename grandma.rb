@@ -1,4 +1,4 @@
-def
+speak_to_grandma = "hi"
 
 if speak_to_grandma == "hi"
   puts "HUH?! SPEAK UP SONNY!"
