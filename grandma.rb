@@ -1,14 +1,6 @@
-speak_to_grandma = "I LOVE YOU GRANDMA!"
+speak_to_grandma = "upcase"
 
-if speak_to_grandma == "hi Nana, how are you?"
-  puts "HUH?! SPEAK UP SONNY!"
-elsif speak_to_grandma == "I LOVE YOU GRANDMA!"
-  puts "I LOVE YOU TOO PUMPKIN!"
-else speak_to_grandma == "HI"
-  puts "NO, NOT SINCE 1938!"
-
-end
-
+if speak_to_grandma
 
 # Write a speak_to_grandma method.
 
