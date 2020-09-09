@@ -1,6 +1,7 @@
 def speak_to_grandma (phrase)
 
-if phrase == 
+if phrase == phrase.uppcase
+  puts "NO, NOT SINCE 1938"
 end
 
 # Write a speak_to_grandma method.
