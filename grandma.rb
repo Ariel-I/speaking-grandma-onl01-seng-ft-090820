@@ -6,7 +6,8 @@ elsif phrase == "I LOVE YOU GRANDMA!"
 	puts "I LOVE YOU TOO PUMPKIN!"
 elsif phrase != phrase.upcase
 	puts "HUH!? SPEAK UP SONNY!"
-	
+else
+  puts "HUH?! SPEAK UP SONNY!"
 	
 end
 end
