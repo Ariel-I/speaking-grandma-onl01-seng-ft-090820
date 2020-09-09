@@ -1,4 +1,4 @@
-def speak_to_grandma (phrase)
+speak_to_grandma = phrase
   
 if phrase == "I LOVE YOU GRANDMA!"
   puts "I LOVE YOU TOO PUMPKIN!"
@@ -8,7 +8,7 @@ else phrase == "phrase.upcase"
   puts "NO, NOT SINCE 1938!"
 end
 
-end
+
 
 # Write a speak_to_grandma method.
 
