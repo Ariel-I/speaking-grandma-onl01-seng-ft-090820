@@ -1,6 +1,8 @@
 speak_to_grandma = "upcase"
 
-if speak_to_grandma
+if speak_to_grandma = "hello".downcase
+  puts "HUH?! SPEAK UP SONNY!"
+end
 
 # Write a speak_to_grandma method.
 
