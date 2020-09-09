@@ -6,7 +6,7 @@ if phrase == phrase.upcase
 elsif phrase == "I LOVE YOU GRANDMA!"
 	return "I LOVE YOU TOO PUMPKIN!"
 elsif phrase != phrase.upcase
-	return "HUH!? SPEAK UP SONNY!"
+	return "HUH?! SPEAK UP SONNY!"
 end
 end
 
