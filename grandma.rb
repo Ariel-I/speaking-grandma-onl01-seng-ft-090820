@@ -4,8 +4,8 @@ if phrase == phrase.upcase
   puts "NO, NOT SINCE 1938!"
 elsif phrase != phrase.upcase
   puts "HUH?! SPEAK UP SONNY!"
-else phrase == "I LOVE YOU GRANDMA"
-  puts "I LOVE YOU TOO PUMPKIN!"
+else phrase == ""
+  puts "NO, NOT SINCE 1938"
 end
 end
 
