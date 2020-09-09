@@ -1,4 +1,4 @@
-speak_to_grandma = "phrase.upcase"
+def speak_to_grandma (phrase.upcase)
   
 if speak_to_grandma == "phrase.upcase"
   puts "NO, NOT SINCE 1938!"
@@ -7,7 +7,7 @@ elsif speak_to_grandma != "phrase.upcase"
 else speak_to_grandma == "I LOVE YOU GRANDMA"
   puts "I LOVE YOU TOO PUMPKIN!"
 end
-
+end
 
 
 
