@@ -1,10 +1,10 @@
-speak_to_grandma = "upcase"
+speak_to_grandma = ""
 
-if speak_to_grandma == "downcase"
+if speak_to_grandma == "hi".downcase
   puts "HUH?! SPEAK UP SONNY!"
-elsif speak_to_grandma == "I LOVE YOU GRANDMA!"
+elsif speak_to_grandma == "I LOVE YOU GRANDMA!".upcase
   puts "I LOVE YOU TOO PUMPKIN!"
-else speak_to_grandma == "by"
+else speak_to_grandma == "HI".upcase
   puts "NO, NOT SINCE 1938!"
 
 end
