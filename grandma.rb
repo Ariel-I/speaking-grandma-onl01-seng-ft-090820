@@ -7,7 +7,7 @@ elsif speak_to_grandma == "I LOVE YOU GRANDMA!"
 else speak_to_grandma == "upcase"
   puts "NO, NOT SINCE 1938!"
 
-
+end
 
 
 # Write a speak_to_grandma method.
