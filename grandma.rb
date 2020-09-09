@@ -1,4 +1,4 @@
-speak_to_grandma = "Hello.upcase"
+def speak_to_grandma (phrase)
 
 if speak_to_grandma = "hello.downcase"
   puts "HUH?! SPEAK UP SONNY!"
