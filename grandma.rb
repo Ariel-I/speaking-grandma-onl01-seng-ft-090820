@@ -1,4 +1,4 @@
-if speak_to_grandma == .upcase
+if speak_to_grandma == ".upcase"
   puts "HUH?! SPEAK UP, SONNY!"
 
 
