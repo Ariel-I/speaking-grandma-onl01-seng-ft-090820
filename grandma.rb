@@ -7,7 +7,7 @@ elsif phrase == "I LOVE YOU GRANDMA!"
 elsif phrase != phrase.upcase
 	puts "HUH!? SPEAK UP SONNY!"
 else
-  puts "HUH?! SPEAK UP SONNY!"
+  
 	
 end
 end
