@@ -1,6 +1,6 @@
-speak_to_grandma = "upcase"
+speak_to_grandma = "Hello.upcase"
 
-if speak_to_grandma = "hello".downcase
+if speak_to_grandma = "hello.downcase"
   puts "HUH?! SPEAK UP SONNY!"
 end
 
